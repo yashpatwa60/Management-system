@@ -15,7 +15,8 @@ A graphical user interface made using tkinter module.This programs manages atten
 And addsup useful features with chatbot (for better communication with application).
 
 You can find screenshots of application [here](https://www.linkedin.com/in/yash-patwa-558ab619b/)  
-You can find screenshots of bot [here](https://www.linkedin.com/in/yash-patwa-558ab619b/)
+You can find screenshots of bot [here](https://www.linkedin.com/in/yash-patwa-558ab619b/)  
+More details about chatbot [here](https://github.com/yashpatwa60/Tkinter-Bot)
 
 
 
