@@ -1,7 +1,15 @@
-## About
+<div align="center">
+ 
+# Attendance Management System + Chatbot  
 ![GitHub issues](https://img.shields.io/github/issues-raw/yashpatwa60/attendance-chatbot-management-system?style=flat-square)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yashpatwa60/attendance-chatbot-management-system)
 ![GitHub contributors](https://img.shields.io/github/contributors/yashpatwa60/attendance-chatbot-management-system)
+ 
+ </div>  
+ 
+
+
+## About
 
 A graphical user interface made using tkinter module.This programs manages attendance of different categories.
 And addsup useful features with chatbot (for better communication with application).
