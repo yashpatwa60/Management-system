@@ -1,9 +1,9 @@
 <div align="center">
  
 # Attendance Management System + Chatbot  
-![GitHub issues](https://img.shields.io/github/issues-raw/yashpatwa60/attendance-chatbot-management-system?style=flat-square)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yashpatwa60/attendance-chatbot-management-system)
-![GitHub contributors](https://img.shields.io/github/contributors/yashpatwa60/attendance-chatbot-management-system)
+![GitHub issues](https://img.shields.io/github/issues-raw/yashpatwa60/Management-system?style=flat-square)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yashpatwa60/Management-system)
+![GitHub contributors](https://img.shields.io/github/contributors/yashpatwa60/Management-system)
  
  </div>  
  
